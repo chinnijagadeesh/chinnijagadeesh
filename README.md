@@ -14,7 +14,7 @@
 
 - 👯 Looking to solve real-world problems.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://chinnijagadeesh.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://chinnijagadeesh.github.io/](https://chinnijagadeesh.github.io/))
 
 - 📫 How to reach me **jagadeeshyadav7551@gmail.com**
 

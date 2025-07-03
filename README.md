@@ -46,7 +46,7 @@
 
 <hr>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UrSeGFHwyien29B5BDqCKBY4x2-neHZU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BwYeVVp4r_uCPJQL211b_sduq6O7OIJ2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

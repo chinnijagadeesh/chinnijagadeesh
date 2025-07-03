@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=935&height=100&lines=Hello👋,+I'm+chinni+jagadeesh..!;+Mern-Stack+Developer..." alt="Typing SVG" /></a>
 
 <h3 align="center">Quick learner | Frontend Developer | 2+ YOE | Immediate Joiner and Mern Stack Developer with core knowledge of Javascript, HTML, CSS, React js, Redux, Node js, Express js and Mongo Db</h3>
-# Hi, I'm Jagadeesh Chinni 👋
 
 ---
 
@@ -18,7 +17,7 @@
 🛠 **Tech Stack**  
 - **Languages:** JavaScript (ES6+), HTML5, CSS3  
 - **Frameworks & Libraries:** Tailwind CSS  
-- *(Add React, Vue, or any others you know here!)*  
+- **React Js, MongoDb, MUI, Express, Micro Frontend and NodeJs**  
 - **Tools:** VS Code, Git & GitHub, npm
 
 ---
@@ -29,8 +28,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning Full Stack Web Development in Masai School
+- 🔭 I’m currently working as a **Frontend Web Developer** at **LEAP360** with **2+ years of experience** building responsive, user-focused web applications.
 
+- 🌱 I’m currently deepening my skills in **MERN Stack Development** — learning to build full-stack apps using **Node.js, Express.js, and MongoDB**.
+
+- 💡 Core Skills: `React.js`, `Redux`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Node.js`, `Express.js`, `MongoDB`
+
+- 🚀 Aspiring full-stack developer with strong fundamentals in frontend technologies and a passion for clean, scalable code.
+
+- 📫 Available for opportunities — **Immediate Joiner**
+  
 - 👯 Looking to solve real-world problems.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://chinnijagadeesh.github.io/)
@@ -39,7 +46,7 @@
 
 <hr>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18_Ip5JXRI9VvIJC1iztoPpH9QKTYTITO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UrSeGFHwyien29B5BDqCKBY4x2-neHZU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,15 +90,15 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinnijagadeesh&show_icons=true&locale=en&theme=dark" alt="chinnijagadeesh" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chinnijagadeesh&show_icons=true&locale=en&theme=dark" alt="chinnijagadeesh" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chinnijagadeesh&show_icons=true&locale=en&theme=dark" alt="chinnijagadeesh1" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnijagadeesh&theme=dark" alt="chinnijagadeesh" /></p>
-
-<a href="https://github.com/chinnijagadeesh"><img alt="Chinni Jagadeesh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chinnijagadeesh&custom_title=Shiv%27s%20Contribution%20Graph&theme=react-dark" /></a>
-
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnijagadeesh&theme=dark" alt="chinnijagadeesh2" /></p>
 
 <!--
-**chinnijagadeesh/chinnijagadeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**<a href="https://github.com/chinnijagadeesh"><img alt="Chinni Jagadeesh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chinnijagadeesh&custom_title=Shiv%27s%20Contribution%20Graph&theme=react-dark" /></a>
+
+
+chinnijagadeesh/chinnijagadeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
